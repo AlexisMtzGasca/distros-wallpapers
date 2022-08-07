@@ -4,7 +4,7 @@ Here is an overview:
 
 ![debian_blue](https://github.com/AlexisMtzGasca/distros-wallpapers/raw/main/debian_blue.png)
 ![debian_greyblue](https://github.com/AlexisMtzGasca/distros-wallpapers/raw/main/debian_greyblue.png)
-![debian_highlights_wallpaper](https://github.com/AlexisMtzGasca/distros-wallpapers/raw/main/debian_highlights_wallpapers.png)
+![debian_highlights_wallpaper](https://github.com/AlexisMtzGasca/distros-wallpapers/raw/main/debian_highlights_wallpaper.png)
 ![debian_nord](https://github.com/AlexisMtzGasca/distros-wallpapers/raw/main/Debian-nord.png)
 ![debian_orig](https://github.com/AlexisMtzGasca/distros-wallpapers/raw/main/debian-orig.png)
 ![debian_rh_2](https://github.com/AlexisMtzGasca/distros-wallpapers/raw/main/rh-2.png)
